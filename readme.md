@@ -32,3 +32,5 @@ position of the mouse and last value is the time in milliseconds user took from 
 
 ### Edu and Job folders
 
+Each folder contains a Jupyter file which opens the generated CSV file by Google forms and generates bar plots with 
+comparison of different users answering different heuristic evaluation questions like visibility, error prevention etc.
